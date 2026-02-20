@@ -1,0 +1,6 @@
+user_id,full_name,department,location,status
+U001,Ayesha Rahman,Finance,Saskatoon,Active
+U002,Noah Johnson,Supply Chain,Saskatoon,Active
+U003,Emma Chen,IT,Saskatoon,Active
+U004,Liam Singh,Operations,Saskatoon,Active
+U005,Olivia Martin,HR,Saskatoon,Inactive

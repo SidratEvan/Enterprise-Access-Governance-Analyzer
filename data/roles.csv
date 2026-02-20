@@ -1,0 +1,8 @@
+role_id,role_name,role_category
+R100,AP Clerk,Finance
+R110,AP Approver,Finance
+R200,Procurement Requestor,SupplyChain
+R210,Procurement Approver,SupplyChain
+R300,Vendor Master Maintainer,MasterData
+R400,System Admin,IT
+R500,Inventory Receiver,Operations
