@@ -184,6 +184,22 @@ This tool demonstrates:
 
 ---
 
+## Business Process Mapping
+
+### Current State (As-Is)
+
+![As-Is Process](docs/process_maps/procurement_as_is.png)
+
+This diagram illustrates the existing procurement workflow and highlights segregation-of-duties risks where a single user may both initiate and approve transactions.
+
+---
+
+### Improved Controlled State (To-Be)
+
+![To-Be Process](docs/process_maps/procurement_to_be.png)
+
+This enhanced model introduces automated SoD validation and periodic access reviews to strengthen internal controls and reduce operational risk.
+
 
 
 \## Author
