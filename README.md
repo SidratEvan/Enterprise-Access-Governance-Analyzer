@@ -1,8 +1,8 @@
-\# Enterprise Access Governance \& Process Compliance Analyzer (EAGPCA)
+# Enterprise Access Governance \& Process Compliance Analyzer (EAGPCA)
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -22,7 +22,7 @@ It is designed to reflect real-world Governance, Risk, and Compliance (GRC) prac
 
 
 
-\## Business Problem
+## Business Problem
 
 
 
@@ -58,7 +58,7 @@ This project simulates these internal control checks.
 
 
 
-\## Features
+## Features
 
 
 
@@ -80,7 +80,7 @@ This project simulates these internal control checks.
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -100,7 +100,7 @@ This project simulates these internal control checks.
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -126,7 +126,7 @@ EAGPCA/
 
 
 
-\## Example Risk Detection Output
+## Example Risk Detection Output
 
 
 
@@ -142,7 +142,7 @@ EAGPCA/
 
 
 
-\## Governance Impact
+## Governance Impact
 
 
 
@@ -166,7 +166,7 @@ This tool demonstrates:
 
 
 
-\## Future Enhancements
+## Future Enhancements
 
 
 
@@ -202,7 +202,7 @@ This enhanced model introduces automated SoD validation and periodic access revi
 
 
 
-\## Author
+## Author
 
 
 
